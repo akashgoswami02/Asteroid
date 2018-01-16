@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Game.xcodeproj">
+      location = "self:/Users/Akash/Documents/Game/Asteroid.xcodeproj">
    </FileRef>
 </Workspace>
